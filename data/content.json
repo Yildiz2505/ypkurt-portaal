@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "id": "esp32",
+      "title": "ESP32 · Smart Technology",
+      "category": "elektronica",
+      "description": "Een lessenreeks over microcontrollers, sensoren, draadloze communicatie en slimme toepassingen.",
+      "url": "https://esp32.ypkurt.nl/"
+    },
+    {
+      "id": "kweekkas",
+      "title": "Slimme kweekkas",
+      "category": "elektronica",
+      "description": "Experimenten met sensoren, bodemvochtmetingen en monitoring van een kweekkas."
+    },
+    {
+      "id": "alarmsysteem",
+      "title": "Slim alarmsysteem",
+      "category": "elektronica",
+      "description": "Een prototypeconcept met detectie, signalering en slimme automatisering."
+    },
+    {
+      "id": "workshop-studio",
+      "title": "Workshop Studio",
+      "category": "software",
+      "description": "Een verzameling zelfstandige workshops en praktische technische handleidingen.",
+      "url": "https://workshops.ypkurt.nl/"
+    },
+    {
+      "id": "3d-ontwerpen",
+      "title": "3D-ontwerpen en printen",
+      "category": "ontwerpen",
+      "description": "Ideeën verkennen en omzetten naar ontwerpen voor de 3D-printer."
+    }
+  ],
+  "updates": []
+}
